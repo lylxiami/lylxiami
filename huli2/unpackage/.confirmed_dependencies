@@ -1,0 +1,20 @@
+{
+	"index.html": {
+		"resources": [
+			"img/layer.png",
+			"img/1.png",
+			"js/json.js",
+			"js/swiper.min.js",
+			"css/style.css",
+			"js/index.js",
+			"img/system.png",
+			"css/reset.css",
+			"img/scan.png",
+			"img/2.png",
+			"img/teacher.jpg",
+			"css/swiper.min.css",
+			"js/jquery-3.0.0.js",
+			"js/jquery-3.0.0.min.js"
+		]
+	}
+}
